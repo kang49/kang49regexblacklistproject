@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <a href="https://www.buymeacoffee.com/metakeen"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=metakeen&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="200px"/></a>
+</div>
+
 # kang49regexblacklistproject
 Block thai Gambling in more movie web or the crazy popup
 and other.
